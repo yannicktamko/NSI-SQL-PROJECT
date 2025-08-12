@@ -1,5 +1,5 @@
-# NSI-SQL-PROJECT
-# 🌍 Travel Agency Simulation
+# NSI-SQL-PROJECT 
+# 🌍 Travel Agency Simulation - 2023/2024 - Yannick Tamko, Maxime Sempels
 
 A Python + Kivy + SQLite travel booking simulation where users can create an account, log in, and book their dream trip — complete with a generated PDF itinerary.
 
@@ -21,3 +21,8 @@ A Python + Kivy + SQLite travel booking simulation where users can create an acc
 - How to integrate **Python**, **Kivy**, and **SQL** effectively  
 - Securely handling and storing user credentials  
 - Building a full booking workflow from user login to PDF export
+
+## ⚙️ How to launch it
+- Download the "NSI PROJET SQL" file
+- Open the file in VS Code or any other source-code editor
+- Launch maintest.py 
