@@ -1,5 +1,5 @@
 # NSI-SQL-PROJECT 
-# 🌍 Travel Agency Simulation - 2023/2024 - Yannick Tamko, Maxime Sempels
+## 🌍 Travel Agency Simulation - 2023/2024 - Yannick Tamko, Maxime Sempels
 
 A Python + Kivy + SQLite travel booking simulation where users can create an account, log in, and book their dream trip — complete with a generated PDF itinerary.
 
